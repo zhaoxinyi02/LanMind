@@ -1,0 +1,15 @@
+node_modules/
+dist/
+target/
+.idea/
+.DS_Store
+*.log
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.*
+!.env.example
+.playwright-cli/
+output/
+tauri-dev.log

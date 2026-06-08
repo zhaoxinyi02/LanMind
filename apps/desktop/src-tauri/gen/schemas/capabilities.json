@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Default capabilities for LanMind MVP 0.1","local":true,"windows":["main","pet"],"permissions":["core:default","sql:default"]}}

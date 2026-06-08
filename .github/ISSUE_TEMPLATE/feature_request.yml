@@ -1,0 +1,23 @@
+name: Feature request
+description: 提议新的能力或体验改进
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 使用场景
+      description: 你希望澜灵在什么情况下提供帮助？
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议方案
+    validations:
+      required: true
+  - type: textarea
+    id: safety
+    attributes:
+      label: 权限与安全考虑
+      description: 这个能力需要读取什么信息或执行什么操作？
