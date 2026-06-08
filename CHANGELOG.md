@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.1 - 2026-06-08
+
+- 将 Windows 发布目标调整为 NSIS 安装器，避免 WiX 3 无法处理中文产品名路径。
+
 ## v0.1.0 - 2026-06-08
 
 - 初始化 pnpm 与 Cargo monorepo。
